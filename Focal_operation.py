@@ -52,4 +52,5 @@ for i in range(1,len(raster2)-1):
     arr.append(row)
     
 array = np.array(arr)
+plot(raster2)
 plot(array)
