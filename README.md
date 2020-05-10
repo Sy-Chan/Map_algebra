@@ -9,6 +9,6 @@ if you really have no idea on what are these simply check this:https://youtu.be/
 
 For me, I install via pip, using:
   - window key + r
-  -type cmd and click ok
-  -in the comand prompt, type: pip install matplotlib
+  - type cmd and click ok
+  - in the comand prompt, type: pip install matplotlib
 Some fatal issue is that you don't have the pip in your computer, in this case, check your installation and made sure you check            the add Python 3.x to PATH (https://datatofish.com/add-python-to-windows-path/)
