@@ -1,10 +1,9 @@
 # Map_algebra
 Map_algebra is spatial analysis performed on raster
 
-Regarding  to how to install matplotlib can refer to this website
-https://matplotlib.org/3.2.1/users/installing.html
-you can choose to install via pip or from tar.gz following the instruction in the website
-If you really have no idea on what are these, simply check this:https://youtu.be/Iq9f2bQJOPg
+Regarding  to how to install matplotlib can refer to this website: https://matplotlib.org/3.2.1/users/installing.html
+You can choose to install via pip or from tar.gz following the instruction in the website
+If you really have no idea on what are these, simply check this: https://youtu.be/Iq9f2bQJOPg
 
 For me, I install via pip, using:
   - Press 'window key + r'
